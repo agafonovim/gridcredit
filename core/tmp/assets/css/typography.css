@@ -1,0 +1,71 @@
+/* *** */
+p {
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: #464646;
+    margin-bottom: 15px;
+}
+p:last-child {
+    margin-bottom: 0px;
+}
+h1 {
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 48px;
+    color: #464646;
+}
+h2 {
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    color: #464646;
+}
+h3 {
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    color: #464646;
+}
+h4 {
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+    color: #464646;
+}
+h5 {
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: #464646;
+}
+h5 {
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color: #464646;
+}
+strong {
+    font-weight: bold;
+}
+ul { 
+   list-style-type: disc; 
+   list-style-position: inside;
+}
+ol { 
+   list-style-type: decimal; 
+   list-style-position: inside; 
+}
+ul ul, ol ul { 
+   list-style-type: circle; 
+   list-style-position: inside; 
+   margin-left: 15px; 
+}
+ol ol, ul ol { 
+   list-style-type: lower-latin; 
+   list-style-position: inside; 
+   margin-left: 15px; 
+}
+li {
+  line-height: 20px;
+}

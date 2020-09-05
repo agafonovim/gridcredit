@@ -1,0 +1,7 @@
+﻿Host: https://gridcredit.ru
+
+User-agent: *
+Disallow: /error
+Disallow: /admin
+Disallow: /pay
+Disallow: /block.htm
